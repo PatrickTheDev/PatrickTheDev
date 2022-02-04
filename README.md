@@ -11,7 +11,7 @@
 
 - 👀 I'm interested in ...
 
-- 👨‍💻 All of my projects are available [**here**](https://www.github.com/PatrickTheDev/)
+- 👨‍💻 All of my projects are available [**here**](https://www.github.com/PatrickTheDev?tab=repositories)
 
 - 💬 Let's talk about **Mobile development, Spring, Microservices, Software engineering**
 
