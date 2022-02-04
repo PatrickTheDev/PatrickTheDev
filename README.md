@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Patrick 👋</h1>
 <h3 align="center">Passionate software engineer</h3>
 
-<p align="left"> 
+<p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=patrickthedev&label=Profile%20views&color=165d95&style=plastic" alt="patrickthedev" /> 
 </p>
 
@@ -17,31 +17,7 @@
 
 - 📫 How to reach me **PatrickPaul@posteo.com**
 
-<!---
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/zlaval007" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zlaval007" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/zalan-toth" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zalan-toth" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/9417843" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9417843" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@zlaval" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zlaval" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/bright" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bright" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/zlaval" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zlaval" height="30" width="40" />
-  </a>
-</p>
---->
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, Frameworks and Tools:</h3>
 <p align="left">
   <a href="https://kotlinlang.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
