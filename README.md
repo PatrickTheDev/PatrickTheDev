@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=patrickthedev&label=Profile%20views&color=165d95&style=plastic" alt="patrickthedev" /> 
 </p>
 
-- 🔭 I’m currently working on **different projects**
+- 🔭 I’m currently working on [**Notally-API**](https://github.com/PatrickTheDev/Notally-API) and [**Notally**](https://github.com/PatrickTheDev/Notally)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot** and sometimes having a closer look at **Clojure**
 
-- 👀 I'm interested in ...
+- 👀 I'm especially interested in the Android Platform, JVM and JVM languages and IT-Security
 
 - 👨‍💻 All of my projects are available [**here**](https://www.github.com/PatrickTheDev?tab=repositories)
 
