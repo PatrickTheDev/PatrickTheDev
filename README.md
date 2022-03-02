@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Boot** and sometimes having a closer look at **Clojure**
 
-- 👀 I'm especially interested in the Android Platform, JVM and JVM languages and IT-Security
+- 👀 I'm especially interested in the **Android Platform**, **JVM** and **JVM languages** and **IT-Security**
 
 - 👨‍💻 All of my projects are available [**here**](https://www.github.com/PatrickTheDev?tab=repositories)
 
