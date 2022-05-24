@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=patrickthedev&label=Profile%20views&color=165d95&style=plastic" alt="patrickthedev" /> 
 </p>
 
-- 🔭 I’m currently working on [**Notally-API**](https://github.com/PatrickTheDev/Notally-API) and [**Notally**](https://github.com/PatrickTheDev/Notally)
+- 🔭 I’m currently working on [**OrchidWatch**](https://github.com/PatrickTheDev/OrchidWatch) and [**MyOrchids**](https://github.com/PatrickTheDev/MyOrchids)
 
 - 🌱 I’m currently learning **Spring Boot** and sometimes having a closer look at **Clojure**
 
