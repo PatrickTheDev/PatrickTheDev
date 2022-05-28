@@ -15,7 +15,7 @@
 
 - 💬 Let's talk about **Mobile development, Spring, Microservices, Software engineering**
 
-- 📫 How to reach me **PatrickPaul@posteo.com**
+- 📫 How to reach me [**patrickpauldev@gmail.com**](mailto:patrickpauldev@gmail.com)
 
 <h3 align="left">Languages, Frameworks and Tools:</h3>
 <p align="left">
