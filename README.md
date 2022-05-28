@@ -49,6 +49,10 @@
    <a href="https://www.postgresql.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
+  </a>
+  <a href="https://reactivex.io/" target="_blank">
+    <img src="https://reactivex.io/assets/Rx_Logo_S.png" width="40" alt="ReactiveX"/>
+  </a>
   <a href="https://selenium.dev" target="_blank">
     <img src="https://selenium.dev/images/selenium_logo_square_green.png" width="40" alt="Selenium"/>
   </a>
