@@ -11,8 +11,6 @@
 
 - 👀 I'm especially interested in the **Android Platform**, **JVM** and **JVM languages** and **IT-Security**
 
-- 👨‍💻 All of my projects are available [**here**](https://www.github.com/PatrickTheDev?tab=repositories)
-
 - 💬 Let's talk about **Mobile development, Spring, Microservices, Software engineering**
 
 - 📫 How to reach me [**patrickpauldev@gmail.com**](mailto:patrickpauldev@gmail.com)
