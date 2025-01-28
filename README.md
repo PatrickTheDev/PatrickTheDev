@@ -58,7 +58,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://www.gradle.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40"/>
+    <img src="/devicon/master/icons/gradle/gradle-original.svg" alt="gradle" width="40" height="40"/>
   </a>
 </p>
 
